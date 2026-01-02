@@ -10,13 +10,13 @@
 
 ## 🛠 Skills (Beginner Level)
 
--  C Programming, HTML, CSS, JavaScript (Basics), Python(Basics) Git & GitHub (Basics)
+-  C Programming, HTML, CSS, JavaScript (Basics), Python(Basics) Git & GitHub (Basics).
 
 ---
 
 ## 📚 Currently Learning
 
-- JavaScript, Web development basics, Writing clean and simple code, Using GitHub properly 
+- JavaScript, Web development basics, Writing clean and simple code, Using GitHub properly.
 
 ---
 ## 📂 Projects
@@ -27,7 +27,7 @@ Here are some beginner projects I have worked on:
 
 ---
 
-## Tech I'm Learning
+## 🔎 Tech I'm Learning
 
 ![C](https://skillicons.dev/icons?i=c)
 ![HTML](https://skillicons.dev/icons?i=html)
