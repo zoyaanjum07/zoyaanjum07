@@ -1,4 +1,4 @@
-# Hi this is Zoya
+# Hi this is Zoya!
 
 ---
 
@@ -17,6 +17,13 @@
 ## 📚 Currently Learning
 
 - JavaScript, Web development basics, Writing clean and simple code, Using GitHub properly 
+
+---
+## 📂 Projects
+
+Here are some beginner projects I have worked on:
+
+- **Number Guessing Game (C)**, **Tic Tac Toe (HTML, CSS, JS)**, **Calculator (HTML, CSS, JS)**, More projects coming soon...
 
 ---
 
