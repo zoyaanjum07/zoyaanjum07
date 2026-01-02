@@ -1,13 +1,10 @@
 # Hi this is Zoya
 
-I'm a Computer Science student who is learning programming step by step.  
-I enjoy building small projects and understanding how things work behind the scenes.
-
 ---
 
 ## 👩‍💻 About Me
 
--  Computer Science student, Learning web development & C programming, Improving coding skills through small projects, Believe in learning by doing.
+- I'm Zoya, a Computer Science student exploring programming and web development. I focus on learning the basics and building small projects to improve my skills.
 
 ---
 
