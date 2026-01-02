@@ -2,7 +2,7 @@
 
 ---
 
-# 👩‍💻 About Me
+**👩‍💻 About Me**
 
 - I'm Zoya, a Computer Science student exploring programming and web development. I focus on learning the basics and building small projects to improve my skills.
 
@@ -14,12 +14,12 @@
 
 ---
 
-📚 Currently Learning
+**📚 Currently Learning**
 
 - JavaScript, Web development basics, Writing clean and simple code, Using GitHub properly.
 
 ---
-📂 Projects
+**📂 Projects**
 
 Here are some beginner projects I have worked on:
 
@@ -27,7 +27,7 @@ Here are some beginner projects I have worked on:
 
 ---
 
-🔎 Tech I'm Learning
+**🔎 Tech I'm Learning**
 
 ![C](https://skillicons.dev/icons?i=c)
 ![HTML](https://skillicons.dev/icons?i=html)
@@ -38,7 +38,7 @@ Here are some beginner projects I have worked on:
 
 ---
 
-🌐 Socials
+**🌐 Socials**
 
 [![Instagram](https://skillicons.dev/icons?i=instagram)](https://www.instagram.com/zo1yxa?igsh=NmVnMW04M3dkdGQz)
 [![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/zoya-anjum-923981383)
