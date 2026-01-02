@@ -8,7 +8,7 @@
 
 ---
 
-🛠 Skills (Beginner Level)
+**🛠 Skills (Beginner Level)**
 
 -  C Programming, HTML, CSS, JavaScript (Basics), Python(Basics), Git & GitHub (Basics).
 
