@@ -2,7 +2,7 @@
 
 ---
 
-👩‍💻 About Me
+# 👩‍💻 About Me
 
 - I'm Zoya, a Computer Science student exploring programming and web development. I focus on learning the basics and building small projects to improve my skills.
 
