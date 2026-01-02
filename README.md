@@ -1,4 +1,4 @@
-# Hi there 👋 I'm Zoya
+# Hi this is Zoya
 
 I'm a Computer Science student who is learning programming step by step.  
 I enjoy building small projects and understanding how things work behind the scenes.
