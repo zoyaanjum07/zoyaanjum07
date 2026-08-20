@@ -1,4 +1,4 @@
-# Hi this is Zoya!
+# Hello this is Zoya!
 
 ---
 
@@ -10,29 +10,38 @@
 
 **🛠 Skills (Beginner Level)**
 
--  C Programming, HTML, CSS, JavaScript (Basics), Python(Basics), Git & GitHub (Basics).
+-  C Programming, HTML & CSS, JavaScript, Java, Python (Basics),Git & GitHub.
 
 ---
 
 **📚 Currently Learning**
 
-- JavaScript, Web development basics, Writing clean and simple code, Using GitHub properly.
+- Python Basics, Improving Java Programming & OOP, Writing clean and simple code, Building practical projects, Improving my web development skills.
 
 ---
 **📂 Projects**
 
-Here are some beginner projects I have worked on:
+- Here are some projects I have worked on:
 
-- **Number Guessing Game (C)**, **Tic Tac Toe (HTML, CSS, JAVASCRIPT)**, **Calculator (HTML, CSS, JAVASCRIPT)**, **Weather App(HTML, CSS, JAVASCRIPT)**, More projects coming soon...
+* **OOP-Text-Editor-Logic-Implementation**— Java / OOP
+* **Number Guessing Game** — C
+* **Tic Tac Toe** — HTML, CSS, JavaScript
+* **Calculator** — HTML, CSS, JavaScript
+* **Weather App** — HTML, CSS, JavaScript
+* **E-Commerce Website** — HTML, CSS, JavaScript
+
+More projects coming soon... 
 
 ---
 
-**🔎 Tech I'm Learning**
+**🔎 Tech I Work With**
 
 ![C](https://skillicons.dev/icons?i=c)
 ![HTML](https://skillicons.dev/icons?i=html)
 ![CSS](https://skillicons.dev/icons?i=css)
 ![JavaScript](https://skillicons.dev/icons?i=js)
+![Java](https://skillicons.dev/icons?i=java)
+![Python](https://skillicons.dev/icons?i=python)
 ![Git](https://skillicons.dev/icons?i=git)
 ![GitHub](https://skillicons.dev/icons?i=github)
 
